@@ -2,8 +2,6 @@ Trabalho WEB sobre JavaScript
 
 Introdução
 
-Este projeto tem como objetivo prático aprimorar o conhecimento sobre manipulação do Document Object Model (DOM) com JavaScript, através da criação de um jogo interativo.
-
 O jogo escolhido é o Brick Breaker, um clássico jogo onde o jogador deve destruir blocos utilizando uma bolinha e uma base controlável.
 
 Regras do Jogo
